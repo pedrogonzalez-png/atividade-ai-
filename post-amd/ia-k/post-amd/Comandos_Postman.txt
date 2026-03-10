@@ -1,0 +1,35 @@
+------------POST-----------
+http://127.0.0.1:5000/Carro
+---------------------------
+
+Body - raw - JSON
+
+{
+  "nome": "Ryzen 5 5600",
+  "categoria": "Processador",
+  "preco": 899
+}
+
+{
+  "nome": "RX 7600",
+  "categoria": "Placa de Video",
+  "preco": 1899
+}
+
+{
+  "nome": "Ryzen 7 7800X3D",
+  "categoria": "Processador",
+  "preco": 2499
+}
+
+{
+  "nome": "RX 7900 XTX",
+  "categoria": "Placa de Video",
+  "preco": 6500
+}
+
+{
+  "nome": "Ryzen 9 7950X",
+  "categoria": "Processador",
+  "preco": 4200
+}
